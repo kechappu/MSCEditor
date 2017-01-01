@@ -1,10 +1,10 @@
 # RUMSCEditor
 
-	MSCeditor - редактор сохранений			  от durkhaz
-	Для (отличной) игры "My Summer Car"	      	от Amistech Games 
-	Перевод программы на русский язык	     от ケチャップ (Kechappu)
-		Репозиторий на GitHub		     https://goo.gl/8jsRdh
-	
+	MSCeditor - редактор сохранений				 	от durkhaz
+	Для (отличной) игры "My Summer Car"	     	от Amistech Games 
+	Перевод программы на русский язык			от ケチャップ (Kechappu)
+		Репозиторий на GitHub					https://goo.gl/8jsRdh
+		
 	
 В: Что это?
 О: Он преобразует двоичные данные в читаемую форму и обратно, что позволяет редактировать сохраненные игры!
