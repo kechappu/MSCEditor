@@ -1,9 +1,9 @@
 # RUMSCEditor
 
-	MSCeditor - редактор сохранений				     	   от durkhaz
+	MSCeditor - редактор сохранений			  от durkhaz
 	Для (отличной) игры "My Summer Car"	      	от Amistech Games 
-	Перевод программы на русский язык			   от ケチャップ (Kechappu)
-		Репозиторий на GitHub					          https://goo.gl/8jsRdh
+	Перевод программы на русский язык	     от ケチャップ (Kechappu)
+		Репозиторий на GitHub		     https://goo.gl/8jsRdh
 	
 	
 В: Что это?
