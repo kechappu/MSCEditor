@@ -1,4 +1,5 @@
-# RUMSCEditor
+# MSCEditor
+## MSCEditor на русском!
 
 	MSCeditor - редактор сохранений				 	от durkhaz
 	Для (отличной) игры "My Summer Car"	     	от Amistech Games 
